@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mercados de Sucesso: Estratégias para Maximizar Resultados</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        .hero-pattern {
+            background-color: #f8fafc;
+            background-image: radial-gradient(#cbd5e1 1px, transparent 1px);
+            background-size: 24px 24px;
+        }
+    </style>
+</head>
+<body class="bg-gray-50">
+
+    <!-- Hero Section -->
+    <header class="hero-pattern">
+        <div class="container mx-auto px-6 py-16 md:py-24 text-center">
+            <div class="max-w-4xl mx-auto">
+                <p class="text-indigo-600 font-semibold tracking-wide uppercase">Exclusivo para Donos e Gerentes de Supermercados</p>
+                <h1 class="text-4xl md:text-6xl font-extrabold text-gray-900 mt-4 leading-tight">Transforme Seu Supermercado em uma Máquina de Resultados</h1>
+                <p class="mt-6 text-lg md:text-xl text-gray-600 max-w-2xl mx-auto">Descubra as estratégias testadas e aprovadas para otimizar a gestão, aumentar as vendas e fidelizar clientes com o nosso ebook completo.</p>
+                <a href="#comprar" class="mt-8 inline-block bg-indigo-600 text-white font-bold rounded-lg px-8 py-4 text-lg hover:bg-indigo-700 transition-transform transform hover:scale-105 shadow-lg">QUERO MEU EBOOK AGORA</a>
+                <p class="mt-4 text-sm text-gray-500">Resultados visíveis em poucas semanas.</p>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <!-- Problema/Solução Section -->
+        <section class="py-16 md:py-24 bg-white">
+            <div class="container mx-auto px-6">
+                <div class="text-center mb-12">
+                    <h2 class="text-3xl md:text-4xl font-bold text-gray-900">Seu supermercado está operando no máximo potencial?</h2>
+                    <p class="mt-4 text-lg text-gray-600 max-w-3xl mx-auto">Concorrência acirrada, margens apertadas, gestão de estoque e equipes desmotivadas são desafios que tiram o sono de qualquer gestor. E se você tivesse um guia prático para vencer cada um deles?</p>
+                </div>
+                
+                <div class="flex flex-col md:flex-row items-center gap-8 md:gap-12">
+                    <div class="w-full md:w-1/2">
+                        <!-- 
+                            ATENÇÃO: Substitua a URL abaixo pela URL da imagem da capa do seu ebook.
+                            Você pode hospedar a imagem em sites como https://imgur.com/upload para obter a URL.
+                        -->
+                        <img src="https://i.imgur.com/iVEpCMF.png" alt="Capa do Ebook Mercados de Sucesso" class="rounded-lg shadow-2xl mx-auto" onerror="this.onerror=null;this.src='https://placehold.co/600x800/1e3a8a/ffffff?text=Capa+do+Ebook';">
+                    </div>
+                    <div class="w-full md:w-1/2">
+                        <h3 class="text-2xl font-bold text-gray-900">O Fim das Adivinhações na Gestão do seu Negócio</h3>
+                        <p class="mt-4 text-gray-600">O ebook <span class="font-bold text-indigo-600">Mercados de Sucesso</span> é o resultado de anos de pesquisa e experiência prática no setor varejista. Compilamos as melhores estratégias, ferramentas e táticas para que você pare de apagar incêndios e comece a construir um negócio lucrativo e sustentável.</p>
+                        <p class="mt-4 text-gray-600">Este não é apenas um livro teórico. É um manual prático, direto ao ponto, com ações que você pode implementar imediatamente.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- O que você vai aprender Section -->
+        <section class="py-16 md:py-24 bg-gray-50">
+            <div class="container mx-auto px-6">
+                <div class="text-center mb-12 md:mb-16">
+                    <h2 class="text-3xl md:text-4xl font-bold text-gray-900">O que você vai dominar com este ebook:</h2>
+                    <p class="mt-4 text-lg text-gray-600 max-w-3xl mx-auto">Um guia completo, do chão de loja à gestão financeira.</p>
+                </div>
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                    <!-- Item 1 -->
+                    <div class="bg-white p-6 rounded-lg shadow-md hover:shadow-xl transition-shadow">
+                        <div class="flex items-center gap-4">
+                            <div class="bg-indigo-100 p-3 rounded-full">
+                                <svg class="w-6 h-6 text-indigo-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4M4 7c0-2.21-3.582-4-8-4S4 4.79 4 7m16 0c0-2.21 3.582-4 8-4s8 1.79 8 4m0 0v10c0 2.21-3.582 4-8 4s-8-1.79-8-4V7"></path></svg>
+                            </div>
+                            <h3 class="text-xl font-bold text-gray-800">Gestão de Estoque Inteligente</h3>
+                        </div>
+                        <p class="mt-4 text-gray-600">Reduza perdas, evite rupturas e otimize o capital de giro com técnicas avançadas de controle e compra.</p>
+                    </div>
+                    <!-- Item 2 -->
+                    <div class="bg-white p-6 rounded-lg shadow-md hover:shadow-xl transition-shadow">
+                        <div class="flex items-center gap-4">
+                            <div class="bg-indigo-100 p-3 rounded-full">
+                                <svg class="w-6 h-6 text-indigo-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"></path></svg>
+                            </div>
+                            <h3 class="text-xl font-bold text-gray-800">Marketing e Vendas de Impacto</h3>
+                        </div>
+                        <p class="mt-4 text-gray-600">Crie promoções que funcionam, utilize o marketing digital a seu favor e aumente o ticket médio dos seus clientes.</p>
+                    </div>
+                    <!-- Item 3 -->
+                    <div class="bg-white p-6 rounded-lg shadow-md hover:shadow-xl transition-shadow">
+                        <div class="flex items-center gap-4">
+                           <div class="bg-indigo-100 p-3 rounded-full">
+                                <svg class="w-6 h-6 text-indigo-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"></path></svg>
+                            </div>
+                            <h3 class="text-xl font-bold text-gray-800">Liderança e Gestão de Equipes</h3>
+                        </div>
+                        <p class="mt-4 text-gray-600">Motive sua equipe, reduza o turnover e crie uma cultura de excelência no atendimento que seus clientes vão amar.</p>
+                    </div>
+                    <!-- Item 4 -->
+                    <div class="bg-white p-6 rounded-lg shadow-md hover:shadow-xl transition-shadow">
+                         <div class="flex items-center gap-4">
+                           <div class="bg-indigo-100 p-3 rounded-full">
+                               <svg class="w-6 h-6 text-indigo-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v.01M12 12v-2m0 2v.01M12 12a2 2 0 00-2 2h4a2 2 0 00-2-2z"></path></svg>
+                            </div>
+                            <h3 class="text-xl font-bold text-gray-800">Finanças e Precificação</h3>
+                        </div>
+                        <p class="mt-4 text-gray-600">Aprenda a precificar corretamente, controlar o fluxo de caixa e a entender os indicadores que realmente importam.</p>
+                    </div>
+                     <!-- Item 5 -->
+                    <div class="bg-white p-6 rounded-lg shadow-md hover:shadow-xl transition-shadow">
+                        <div class="flex items-center gap-4">
+                           <div class="bg-indigo-100 p-3 rounded-full">
+                                <svg class="w-6 h-6 text-indigo-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"></path></svg>
+                            </div>
+                            <h3 class="text-xl font-bold text-gray-800">Inovação e Experiência do Cliente</h3>
+                        </div>
+                        <p class="mt-4 text-gray-600">Descubra como pequenas inovações podem criar uma experiência de compra memorável e transformar clientes em fãs.</p>
+                    </div>
+                     <!-- Item 6 -->
+                    <div class="bg-white p-6 rounded-lg shadow-md hover:shadow-xl transition-shadow">
+                        <div class="flex items-center gap-4">
+                           <div class="bg-indigo-100 p-3 rounded-full">
+                                <svg class="w-6 h-6 text-indigo-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>
+                            </div>
+                            <h3 class="text-xl font-bold text-gray-800">Segurança e Prevenção de Perdas</h3>
+                        </div>
+                        <p class="mt-4 text-gray-600">Implemente processos para garantir a segurança dos seus clientes, equipe e patrimônio, minimizando perdas.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <!-- Testimonials Section -->
+        <section class="py-16 md:py-24 bg-indigo-700 text-white">
+            <div class="container mx-auto px-6">
+                <div class="text-center mb-12">
+                    <h2 class="text-3xl md:text-4xl font-bold">O que os gestores estão dizendo:</h2>
+                </div>
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 text-gray-800">
+                    <!-- Testimonial 1 -->
+                    <div class="bg-white p-8 rounded-lg shadow-lg">
+                        <p class="italic">"Depois de aplicar as táticas de gestão de estoque do ebook, reduzimos nossas perdas em 15% em apenas um mês. Leitura obrigatória!"</p>
+                        <div class="mt-4 flex items-center">
+                            <img src="https://placehold.co/48x48/e0e7ff/374151?text=JS" alt="Foto de João Silva" class="w-12 h-12 rounded-full mr-4">
+                            <div>
+                                <p class="font-bold">João Silva</p>
+                                <p class="text-sm text-indigo-600">Dono, Mercado Preço Bom</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Testimonial 2 -->
+                    <div class="bg-white p-8 rounded-lg shadow-lg">
+                        <p class="italic">"O capítulo sobre marketing digital mudou nosso jogo. Nossas vendas online cresceram 40% e estamos alcançando novos clientes todos os dias."</p>
+                        <div class="mt-4 flex items-center">
+                            <img src="https://placehold.co/48x48/e0e7ff/374151?text=MF" alt="Foto de Maria Fernandes" class="w-12 h-12 rounded-full mr-4">
+                            <div>
+                                <p class="font-bold">Maria Fernandes</p>
+                                <p class="text-sm text-indigo-600">Gerente, Supermercado Família</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Testimonial 3 -->
+                    <div class="bg-white p-8 rounded-lg shadow-lg md:col-span-2 lg:col-span-1">
+                        <p class="italic">"Simplesmente o melhor investimento que fiz para o meu negócio este ano. As dicas sobre liderança de equipe foram um divisor de águas."</p>
+                        <div class="mt-4 flex items-center">
+                            <img src="https://placehold.co/48x48/e0e7ff/374151?text=CP" alt="Foto de Carlos Pereira" class="w-12 h-12 rounded-full mr-4">
+                            <div>
+                                <p class="font-bold">Carlos Pereira</p>
+                                <p class="text-sm text-indigo-600">Proprietário, Rede Varejão</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- CTA Section -->
+        <section id="comprar" class="py-16 md:py-24 bg-white">
+            <div class="container mx-auto px-6">
+                <div class="bg-gray-100 rounded-lg shadow-xl p-8 md:p-16 text-center max-w-4xl mx-auto">
+                     <h2 class="text-3xl md:text-5xl font-extrabold text-gray-900">Pronto para Maximizar seus Resultados?</h2>
+                     <p class="mt-4 text-lg text-gray-600">Adquira seu acesso instantâneo a todas essas estratégias e comece a transformação do seu supermercado hoje mesmo.</p>
+                     
+                     <div class="my-8">
+                        <span class="text-5xl md:text-6xl font-bold text-indigo-600">R$ 97,00</span>
+                        <span class="text-xl text-gray-500 line-through ml-2">R$ 197,00</span>
+                     </div>
+
+                     <a href="https://pay.hotmart.com/X100145723T" target="_blank" class="w-full md:w-auto inline-block bg-green-500 text-white font-bold rounded-lg px-10 py-5 text-xl hover:bg-green-600 transition-transform transform hover:scale-105 shadow-lg">COMPRAR AGORA E TRANSFORMAR MEU NEGÓCIO</a>
+
+                     <div class="mt-8 text-gray-600">
+                        <p class="font-bold">Garantia de 7 Dias!</p>
+                        <p class="text-sm">Se você não ficar satisfeito, devolvemos seu dinheiro sem burocracia.</p>
+                        <p class="text-sm mt-4">✓ Acesso imediato e vitalício</p>
+                        <p class="text-sm">✓ Leitura em qualquer dispositivo (PDF)</p>
+                        <p class="text-sm">✓ Compra 100% segura</p>
+                     </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white">
+        <div class="container mx-auto px-6 py-8 text-center">
+            <p>&copy; 2024 Mercados de Sucesso. Todos os direitos reservados.</p>
+            <p class="text-sm text-gray-400 mt-2">Este é um produto digital e você receberá os dados para acessá-lo por email.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
